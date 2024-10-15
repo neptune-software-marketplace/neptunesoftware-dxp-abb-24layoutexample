@@ -1,0 +1,58 @@
+{
+	"id": "6ae02bb4-bd98-4024-9ef5-ea8bf955c25a",
+	"createdAt": "2024-10-14T17:02:02.970Z",
+	"createdBy": "lloyd.trevarthen@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/neptune-software-marketplace/neptunesoftware-dxp-abb-24layoutexample"
+	},
+	"name": "neptunesoftware-dxp-abb-24layoutexample",
+	"description": null,
+	"ver": "24.10.14.1707",
+	"enableCICD": true,
+	"excludeTemplateFiles": false,
+	"roles": [],
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"tile_layout": [],
+	"category": [],
+	"tilegroup_layout": [],
+	"launchpad": [],
+	"launchpad_layout": [
+		{
+			"id": "bb7ccd45-e1c6-4512-87a3-35759092b49c",
+			"NAME": "RavensLight",
+			"DESCR": null
+		},
+		{
+			"id": "554f0ab1-5b22-46fc-b72a-34f61d11875d",
+			"NAME": "RavensDark",
+			"DESCR": null
+		}
+	],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": [],
+	"theme_ui5": []
+}
